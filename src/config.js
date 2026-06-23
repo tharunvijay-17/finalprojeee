@@ -3,7 +3,7 @@
 // ============================================================
 import june22 from './assets/June22.png';
 import june18 from './assets/June18.jpg';
-import june8 from './assets/June8.jpeg';
+import june8 from './assets/june8.jpeg';
 import june13 from './assets/June13.jpg';
 import may30 from './assets/may30.jpg';
 import may29 from './assets/may29.png';
